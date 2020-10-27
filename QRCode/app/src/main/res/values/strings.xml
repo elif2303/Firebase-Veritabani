@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCode</string>
+    <string name="permission_read_phone_state_rationale" />
+</resources>

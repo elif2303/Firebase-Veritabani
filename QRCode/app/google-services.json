@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686551255913",
+    "firebase_url": "https://asansordatabase.firebaseio.com",
+    "project_id": "asansordatabase",
+    "storage_bucket": "asansordatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686551255913:android:c5e20a1cbc929bf4f24bf8",
+        "android_client_info": {
+          "package_name": "com.example.qrcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686551255913-mtpinqdks88m5r8t6p41kd13f6k1s2mr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrcode",
+            "certificate_hash": "7343f0024a4205ced43244ff67dac8b9141845d2"
+          }
+        },
+        {
+          "client_id": "686551255913-uaq2oemvo63n9hcbel1irrmojn2q2seo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtj9IA1nBrSK_nq36UB8z4YKWaVxYPt7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686551255913-uaq2oemvo63n9hcbel1irrmojn2q2seo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
